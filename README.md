@@ -1,4 +1,4 @@
-download and run:
+download and run: made in python 3.12
 
 input #1 = max a,b,c
 
